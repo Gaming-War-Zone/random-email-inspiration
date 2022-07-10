@@ -1,0 +1,102 @@
+Don't worry about what anybody else is going to do. The best way to predict the future is to invent it.
+-- Alan Kay
+Premature optimization is the root of all evil (or at least most of it) in programming.
+-- Donald Knuth
+Lisp has jokingly been called "the most intelligent way to misuse a computer". I think that description is a great compliment because it transmits the full flavor of liberation: it has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+-- Edsger Dijkstra, CACM, 15:10
+Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.
+-- Mark Twain
+What Paul does, and does very well, is to take ideas and concepts that are beautiful in the abstract, and brings them down to a real world level. That's a rare talent to find in writing these days.
+-- Jeff "hemos" Bates, Director, OSDN; Co-evolver, Slashdot
+Since programmers create programs out of nothing, imagination is our only limitation. Thus, in the world of programming, the hero is the one who has great vision. Paul Graham is one of our contemporary heroes. He has the ability to embrace the vision, and to express it plainly. His works are my favorites, especially the ones describing language design. He explains secrets of programming, languages, and human nature that can only be learned from the hacker experience. This book shows you his great vision, and tells you the truth about the nature of hacking.
+-- Yukihiro "Matz" Matsumoto, creator of Ruby
+No problem should ever have to be solved twice.
+-- Eric S. Raymond, How to become a hacker
+Attitude is no substitute for competence.
+-- Eric S. Raymond, How to become a hacker
+It is said that the real winner is the one who lives in today but able to see tomorrow.
+-- Juan Meng, Reviewing "The future of ideas" by Lawrence Lessig
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+-- Alan J. Perlis (Epigrams in programming)
+A year spent in artificial intelligence is enough to make one believe in God.
+-- Alan J. Perlis (Epigrams in programming)
+Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve.
+-- Alan J. Perlis (Epigrams in programmi ng)
+Within a computer natural language is unnatural.
+-- Alan J. Perlis (Epigrams in programming)
+You think you know when you learn, are more sure when you can write, even more when you can teach, but certain when you can program.
+-- Alan J. Perlis (Epigrams in programming)
+Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.
+-- Alan J. Perlis (Epigrams in programming)
+A little learning is a dangerous thing.
+-- Alexander Pope
+Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+-- Eric Raymond
+Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary.
+-- Frederick P. Brooks, No Sliver Bullet.
+Students should be evaluated on how well they can achieve the goals they strived to achieve within a realistic context. Students need to learn to do things, not know things.
+-- Roger Schank, Engines for Education
+We remember what we learn when we care about performing better and when we believe that what we have been asked to do is representative of reality.
+-- Roger Schank, Engines for Education
+There really is no learning without doing.
+-- Roger Schank, Engines for Education
+We really have to get over the idea that some stuff is just worth knowing even if you never do anything with it. Human memories happily erase stuff that has no purpose, so why try to fill up children's heads with such stuff?
+-- Roger Schank, Engines for Education
+The only problems we can really solve in a satisfactory manner are those that finally admit a nicely factored solution.
+-- E. W. Dijkstra, The humble programmer
+The best way to learn to live with our limitations is to know them.
+--E. W. Dijkstra, The humble programmer
+An expert is, according to my working definition "someone who doesn't need to look up answers to easy questions".
+-- Eric Lippert.
+The programmer must seek both perfection of part and adequacy of collection.
+-- Alan J. Perlis
+Thus, programs must be written for people to read, and only incidentally for machines to execute.
+-- Alan J. Perlis
+Lisp programmers know the value of everything but the cost of nothing.
+-- Alan J. Perlis
+An interpreter raises the machine to the level of the user program; a compiler lowers the user program to the level of the machine language.
+-- SICP
+Everything should be made as simple as possible, but no simpler.
+-- Albert Einstein
+The great dividing line between success and failure can be expressed in five words: "I did not have time."
+-- WestHost weekly newsletter 14 Feb 2003
+When your enemy is making a very serious mistake, don't be impolite and disturb him.
+-- Napoleon Bonaparte (allegedly)
+A charlatan makes obscure what is clear; a thinker makes clear what is obscure.
+-- Hugh Kingsmill
+Only make new mistakes.
+-- Phil Dourado
+You can recognize truth by its beauty and simplicity. When you get it right, it is obvious that it is right.
+-- Richard Feynman
+Talkers are no good doers.
+-- William Shakespeare, "Henry VI"
+Photography is painting with light.
+-- Eric Hamilton
+Good artists copy. Great artists steal.
+-- Pablo Picasso
+The problem is that small examples fail to convince, and large examples are too big to follow.
+-- Steve Yegge.
+We are the sum of our behaviours; excellence therefore is not an act but a habit.
+-- Aristotle.
+Every man prefers belief to the exercise of judgment.
+-- Seneca
+It’s hard to grasp abstractions if you don’t understand what they’re abstracting away from.
+-- Nathan Weizenbaum
+I find that the harder I work, the more luck I seem to have.
+-- Thomas Jefferson
+Don't stay in bed, unless you can make money in bed.
+-- George Burns
+If everything seems under control, you're not going fast enough.
+-- Mario Andretti
+Chance favors the prepared mind.
+-- Louis Pasteur
+Controlling complexity is the essence of computer programming.
+-- Brian Kernigan
+To iterate is human, to recurse divine.
+-- L. Peter Deutsch
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+-- Anonymous
+Experience is what you get when you don't get what you want.
+-- Cited by Randy Pausch
+Luck is where preparation meets opportunity.
+-- Randy Pausch
